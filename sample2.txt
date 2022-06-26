@@ -1,0 +1,82 @@
+[ {
+  "name" : "Bob",
+  "wallet" : {
+    "hkd" : 4.8984184012425,
+    "krw" : 0.1960252719659536,
+    "eur" : 43.21447015668,
+    "gbp" : 317.6831855252384,
+    "cad" : 144.0482338556,
+    "usd" : 127.46281461015
+  }
+}, {
+  "name" : "Susan",
+  "wallet" : {
+    "eur" : 13.884238261504,
+    "cad" : 13.884238261504
+  }
+}, {
+  "name" : "Tommy",
+  "wallet" : {
+    "usd" : 784.54253741261
+  }
+} ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name from to amount
+Bob cad usd 100
+Susan cad eur 20
+Tommy usd usd 1000
+Bob usd hkd 30
+Bob hkd krw 184
+
+[
+	{
+		"name": "Bob",
+		"wallet": {
+			"usd": 148.454253741261,
+			"cad": 20,
+			"hkd" : 50.19096482251261,
+			"krw" : 28,200.59062270061
+		}
+	},
+	{
+		"name": "Susan",
+		"wallet": {
+			"cad": 508,
+			"jpy": 0.3
+		}
+	},
+	{
+		"name": "Tommy",
+		"wallet": {
+			"usd": 252.34,
+			"aud": 3267.12,
+			"krw": 398
+		}
+	}
+]
+
+
+
+
+
+
+
+
+
